@@ -1,0 +1,14 @@
+{
+  "name":"express-json-server",
+  "version":"1.0.0",
+  "description": "A simple Express.js backend server with two JSON endpoints.",
+  "main":"server.js",
+  "scripts":{
+    "start":"node server.js"
+  },
+  "author":"Warda Shahid",
+  "license":"ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
