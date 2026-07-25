@@ -151,7 +151,7 @@ docs/database.png
 - SQL queries executed using DB Browser
 
 ---
-
+![Database Screenshot](docs/database.png)
 ## Author
 
 Created by **Warda Shahid** for the **FlyRank Backend Internship Week 3 Assignment A2**.
